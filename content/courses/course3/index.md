@@ -2,7 +2,6 @@
 title: "Economic 103"
 date: 2003-03-10
 lastmod: 2024-09-08
-draft: false
 aliases: 
 tags: ["Econometrics", "Courses"]
 author: "Ryan Longmuir"
