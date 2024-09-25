@@ -18,7 +18,7 @@ menu:
           weight: 3
 
 params:
-    description:   "My site is down"
+    description:   " I am a PhD student in the Department of Economics at UCLA. My research interests lie in Public and Labor Economics, with a focus in policing and incarceration."
     author: Ryan Longmuir
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Ryan Longmuir 
-          subtitle:  "My site is down"
+          subtitle:  " I am a PhD student in the Department of Economics at UCLA. My research interests lie in Public and Labor Economics, with a focus in policing and incarceration."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160

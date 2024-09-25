@@ -6,7 +6,14 @@
     <description>Recent content in Courses on Ryan Longmuir</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economic 103</title>
+      <link>http://localhost:1313/courses/course3/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course3/</guid>
+      <description>Course Template</description>
+    </item>
   </channel>
 </rss>

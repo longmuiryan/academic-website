@@ -48,12 +48,21 @@
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/courses/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/econometrics/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/course3/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
