@@ -1,6 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Ryan Longmuir
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
