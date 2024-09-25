@@ -1,12 +1,12 @@
 ---
 title: "Economic 103"
-date: 2003-03-10
-lastmod: 2024-09-08
+date: 2024-09-25
+lastmod: 2024-09-25
 aliases: 
 tags: ["Econometrics", "Courses"]
 author: "Ryan Longmuir"
 description: "Course Template" 
-summary: "Collection of course materials" 
+summary: "Materials from discussion section as well as a collection of other helpful resources." 
 cover:
     image: "course3.png"
     alt: "Villa of Reduced Circumstances"
