@@ -2,6 +2,7 @@
 title: "Lectures at the Villa of Reduced Circumstances"
 date: 2003-03-10
 lastmod: 2024-09-08
+draft: true
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
@@ -29,7 +30,6 @@ editPost:
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
-
 ---
 
 ## Introduction
@@ -41,11 +41,12 @@ This course covers research topics related to Romance philology. It focuses espe
 + What is the role of Latin and Greek in these irregularities? 
 + What about irregular verbs in other Romance languages?
     + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
+    tempor incididunt ut labore et dolore magna aliqua. 
     + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
     + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     + Excepteur sint occaecat cupidatat non proident.
     
+
 Sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Part 1: Review of Romance languages
