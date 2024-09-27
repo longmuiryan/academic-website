@@ -15,11 +15,9 @@ showToc: true
 disableAnchoredHeadings: false
 ---
 
-## How to Use ChatGPT and Stack Overflow to Debug R Code
-
 For students learning R, debugging errors can be one of the most frustrating parts of coding. Fortunately, two powerful tools—ChatGPT and Stack Overflow—can make this process easier. By combining the strengths of both, you can quickly identify and resolve common coding issues while also deepening your understanding of R. Here’s how to use these resources effectively.
 
-### 1. ChatGPT: Your Real-Time Coding Assistant
+## 1. ChatGPT: Your Real-Time Coding Assistant
 
 ChatGPT is an AI-driven platform that can provide personalized, instant feedback on your code. Here's how to make the most of it:
 
@@ -33,7 +31,7 @@ ChatGPT is an AI-driven platform that can provide personalized, instant feedback
 
 While ChatGPT is fast and can handle many simple errors, it may not always be perfect for more obscure issues. This is where Stack Overflow comes in.
 
-### 2. Stack Overflow: A Knowledge-Rich Repository
+## 2. Stack Overflow: A Knowledge-Rich Repository
 
 Stack Overflow is a vast forum where developers and data scientists discuss and solve coding problems. Here’s how to use it effectively for R debugging:
 
@@ -45,7 +43,7 @@ Stack Overflow is a vast forum where developers and data scientists discuss and 
 
 - **Explore Similar Threads**: If your error has a nuanced cause, reading through different threads can help broaden your understanding of R coding patterns and common pitfalls.
 
-### 3. Best Practices for Combining ChatGPT and Stack Overflow
+## 3. Best Practices for Combining ChatGPT and Stack Overflow
 
 - **Start with ChatGPT for Quick Fixes**: If you encounter a straightforward bug, ChatGPT can give an immediate response. It's great for basic errors or quick explanations of functions and logic.
 
