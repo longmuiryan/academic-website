@@ -16,6 +16,9 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
+        - name: Blog
+          url: blog/
+          weight: 3
 
 params:
     description:   " I am a PhD student in the Department of Economics at UCLA. My research interests lie in Public and Labor Economics, with a focus in policing and incarceration."
@@ -33,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["courses","papers","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,6 +57,8 @@ params:
               url: papers/
             - name: Courses
               url: courses/
+            - name: Blog
+              url: blog/
 
     socialIcons:
         - name: CV
