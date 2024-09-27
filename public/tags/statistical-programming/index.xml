@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Econometrics on Ryan Longmuir</title>
-    <link>http://localhost:1313/tags/econometrics/</link>
-    <description>Recent content in Econometrics on Ryan Longmuir</description>
+    <title>Statistical Programming on Ryan Longmuir</title>
+    <link>http://localhost:1313/tags/statistical-programming/</link>
+    <description>Recent content in Statistical Programming on Ryan Longmuir</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/statistical-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Quick Guide for Debugging Your Code</title>
       <link>http://localhost:1313/blog/blog1/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/blog1/</guid>
-      <description>Course Template</description>
-    </item>
-    <item>
-      <title>Economic 103</title>
-      <link>http://localhost:1313/courses/course3/</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course3/</guid>
       <description>Course Template</description>
     </item>
   </channel>

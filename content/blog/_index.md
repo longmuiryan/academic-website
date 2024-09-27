@@ -1,4 +1,4 @@
 ---
-title: "Courses"
-description: "Courses I've either taught or TA'ed"
+title: "Blog"
+description: "Short articles about economics, statistical programming, among other things"
 ---

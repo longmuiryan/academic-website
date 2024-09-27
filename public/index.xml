@@ -6,8 +6,22 @@
     <description>Recent content on Ryan Longmuir</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Quick Guide for Debugging Your Code</title>
+      <link>http://localhost:1313/blog/blog1/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog1/</guid>
+      <description>Course Template</description>
+    </item>
+    <item>
+      <title>Economic 103</title>
+      <link>http://localhost:1313/courses/course3/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course3/</guid>
+      <description>Course Template</description>
+    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
@@ -28,13 +42,6 @@
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
-    </item>
-    <item>
-      <title>Economic 103</title>
-      <link>http://localhost:1313/courses/course3/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course3/</guid>
-      <description>Course Template</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
