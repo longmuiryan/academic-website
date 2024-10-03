@@ -63,8 +63,6 @@ params:
     socialIcons:
         - name: CV
           url: cv-ryan-longmuir.pdf
-        - name: Email
-          url: mailto:rlongmuir@g.ucla.edu
         - name: Office Hours
           url: officehours/
         - name: GitHub

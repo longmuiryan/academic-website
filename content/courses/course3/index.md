@@ -34,7 +34,7 @@ If you're just getting started, I’ve gathered some of my favorite resources to
 
 #### Data Camp Courses 
 
-+ {{< newtabref  href="https://www.datacamp.com/courses/free-introduction-to-r" title="Introduction to R" >}}  - 
++ {{< newtabref  href="https://www.datacamp.com/courses/free-introduction-to-r" title="Introduction to R" >}} 
 + {{< newtabref  href="https://www.datacamp.com/courses/intermediate-r" title="Intermediate R" >}} 
 + {{< newtabref  href="https://www.datacamp.com/courses/introduction-to-the-tidyverse" title="Introduction to the Tidyverse" >}} 
 
