@@ -55,15 +55,28 @@ If you're just getting started, I’ve gathered some of my favorite resources to
 
 As with any subject, some online resources explain certain concepts better than others. Below, I’ve compiled a collection of my favorite materials for learning econometrics. First, you’ll find the lecture slides from my first Econometrics course at UCSB, taught by Clément de Chaisemartin. This course provided a clear, foundational understanding of regression analysis and was exceptionally well taught. Second, I highly recommend Ben Lambert's YouTube series on econometrics. His illustrated examples make complex econometric concepts much easier to grasp. In short, it’s the closest thing to a Khan Academy for Econometrics.
 
-##### UCSB ECON 140A Lectures 
+##### UCSB Introduction of Econometrics Lecture Slides 
 
-+ {{< newtabref  href="/courses/course3/lecture1.pdf" title="Lecture 1" >}} - Polling and sampling
-+ {{< newtabref  href="/courses/course3/lecture2.pdf" title="Lecture 2" >}} -  OLS univariate linear regression
-+ {{< newtabref  href="/courses/course3/lecture3.pdf" title="Lecture 3" >}} – OLS univariate affine regression. 
-+ {{< newtabref  href="/courses/course3/lecture4.pdf" title="Lecture 4" >}} – OLS multivariate regression 
-+ {{< newtabref  href="/courses/course3/lecture5.pdf" title="Lecture 5" >}} – Correlation or causation? 
++ {{< newtabref  href="/courses/course3/ucsb/lecture1.pdf" title="Lecture 1" >}} - Polling and sampling
++ {{< newtabref  href="/courses/course3/ucsb/lecture2.pdf" title="Lecture 2" >}} -  OLS univariate linear regression
++ {{< newtabref  href="/courses/course3/ucsb/lecture3.pdf" title="Lecture 3" >}} – OLS univariate affine regression. 
++ {{< newtabref  href="/courses/course3/ucsb/lecture4.pdf" title="Lecture 4" >}} – OLS multivariate regression 
++ {{< newtabref  href="/courses/course3/ucsb/lecture5.pdf" title="Lecture 5" >}} – Correlation or causation? 
 
 #### YouTube Videos and Playlists
 
 * {{< newtabref  href="https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU" title="Ben Lambert - Undergraduate Econometrics Part 1" >}} 
 * {{< newtabref  href="https://www.youtube.com/watch?v=Ky0YCQlQ5ZI&list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU" title="Ben Lambert - Undergraduate Econometrics Part 2" >}} 
+
+**Disclaimer:** Econometrics courses vary across universities, unlike more standardized subjects like calculus or microeconomics. Some professors focus on deriving the OLS estimator and standard errors, while others emphasize statistical programming. Professor Rojas follows the textbook *Principles of Econometrics* by Hill, Griffiths, and Lim. I found lecture notes from a Rutgers econometrics course that also uses this textbook.
+
+#### Rutgers Introduction of Econometrics Lecture Slides 
+
++ {{< newtabref  href="/courses/course3/rutgers/lecture1.pdf" title="Lecture 1" >}} - Introduction
++ {{< newtabref  href="/courses/course3/rutgers/lecture2.pdf" title="Lecture 2" >}} -  The Simple Linear Regression Model: Specification and Estimation
++ {{< newtabref  href="/courses/course3/rutgers/lecture3.pdf" title="Lecture 3" >}} – Interval Estimation and Hypothesis Testing
++ {{< newtabref  href="/courses/course3/rutgers/lecture4.pdf" title="Lecture 4" >}} – Prediction, Goodness-of-fit, and Modeling Issues
++ {{< newtabref  href="/courses/course3/rutgers/lecture5.pdf" title="Lecture 5" >}} – The Multiple Regression Model
++ {{< newtabref  href="/courses/course3/rutgers/lecture6.pdf" title="Lecture 6" >}} – Further Inference in the Multiple Regression Model
++ {{< newtabref  href="/courses/course3/rutgers/lecture7.pdf" title="Lecture 7" >}} – Using Indicator Variables 
++ {{< newtabref  href="/courses/course3/rutgers/lecture8.pdf" title="Lecture 8" >}} – Heteroskedasticity
