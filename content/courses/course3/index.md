@@ -53,7 +53,7 @@ If you're just getting started, I’ve gathered some of my favorite resources to
 
 ## 3. My Favorite Econometrics Materials
 
-As with any subject, some online resources explain certain concepts better than others. Below, I’ve compiled a collection of my favorite materials for learning econometrics. First, you’ll find the lecture slides from my first Econometrics course at UCSB, taught by Clément de Chaisemartin. This course provided a clear, foundational understanding of regression analysis and was exceptionally well taught. Second, I highly recommend Ben Lambert's YouTube series on econometrics. His illustrated examples make complex econometric concepts much easier to grasp. In short, it’s the closest thing to a Khan Academy for Econometrics.
+As with any subject, some online resources explain certain concepts better than others. Below, I’ve compiled a collection of my favorite materials for learning econometrics. First, you’ll find the lecture slides from my first Econometrics course at UCSB, taught by Clément de Chaisemartin. This course provided a clear, foundational understanding of regression analysis and was exceptionally well taught. Second, I highly recommend Ben Lambert's YouTube series on econometrics. His illustrated examples make complex econometric concepts much easier to grasp. In short, it’s the closest thing to a Khan Academy for Econometrics. 
 
 ##### UCSB Introduction of Econometrics Lecture Slides 
 
@@ -67,6 +67,7 @@ As with any subject, some online resources explain certain concepts better than 
 
 * {{< newtabref  href="https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU" title="Ben Lambert - Undergraduate Econometrics Part 1" >}} 
 * {{< newtabref  href="https://www.youtube.com/watch?v=Ky0YCQlQ5ZI&list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU" title="Ben Lambert - Undergraduate Econometrics Part 2" >}} 
+* {{< newtabref  href="https://youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&si=dmXOHcJzdYvkPCX3" title="CrashCourse Statistics" >}} 
 
 **Disclaimer:** Econometrics courses vary across universities, unlike more standardized subjects like calculus or microeconomics. Some professors focus on deriving the OLS estimator and standard errors, while others emphasize statistical programming. Professor Rojas follows the textbook *Principles of Econometrics* by Hill, Griffiths, and Lim. I found lecture notes from a Rutgers econometrics course that also uses this textbook.
 
